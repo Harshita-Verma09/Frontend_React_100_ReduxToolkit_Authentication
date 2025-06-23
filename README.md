@@ -2,6 +2,8 @@
 
 This project demonstrates a basic user authentication system built with **React**, **Redux Toolkit** for state management, and **localStorage** for client-side data persistence. It includes functionalities for user **registration**, **login**, and **logout**.
 
+
+
 ---
 
 ## Features
