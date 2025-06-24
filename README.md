@@ -28,6 +28,7 @@ Make sure you have the following installed:
 
 ## 🚀 Installation
 
+
 ### 1. Create a React App
 
 ```bash
@@ -50,11 +51,13 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
+
 Update `tailwind.config.js`:
 
 ```js
 content: ["./src/**/*.{js,jsx,ts,tsx}"]
 ```
+
 
 Update `src/index.css`:
 
