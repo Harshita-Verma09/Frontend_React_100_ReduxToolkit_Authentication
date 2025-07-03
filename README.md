@@ -58,8 +58,6 @@ content: ["./src/**/*.{js,jsx,ts,tsx}"]
 ```
 
 
-
-
 Update `src/index.css`:
 
 ```css
