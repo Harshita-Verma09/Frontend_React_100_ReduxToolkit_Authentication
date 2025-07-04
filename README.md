@@ -5,6 +5,7 @@ This project demonstrates a basic user authentication system built with **React*
 
 ---
 
+
 ## Features
 
 * **User Registration**: Create an account using name, email, and password.
