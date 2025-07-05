@@ -135,6 +135,9 @@ export default authSlice.reducer;
 
 ## 📝 Register Component
 
+
+
+
 ```js
 // src/components/Register.jsx
 import { useDispatch } from "react-redux";
@@ -175,6 +178,8 @@ export default Register;
 ---
 
 ## 🔑 Login Component
+
+
 
 ```js
 // src/components/Login.jsx
