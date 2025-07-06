@@ -133,6 +133,7 @@ export default authSlice.reducer;
 
 ---
 
+
 ## 📝 Register Component
 
 
@@ -204,6 +205,7 @@ function Login() {
     }
   };
 
+
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <form onSubmit={handleLogin} className="bg-white p-8 rounded-lg shadow-md w-full max-w-sm">
@@ -259,6 +261,7 @@ root.render(
 ```
 
 ---
+
 
 ## ⚙️ Main App Logic
 
@@ -318,6 +321,7 @@ This demo is for learning purposes. **Never store plain-text passwords or sensit
 ---
 
 ## 🎨 Tailwind Styling Snippet (Optional)
+
 
 ```css
 /* src/index.css */
