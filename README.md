@@ -305,7 +305,7 @@ export default App;
 
 ---
 
-## 💾 Data Persistence
+##  Data Persistence
 
 Data is stored in the browser's `localStorage`:
 
@@ -320,7 +320,7 @@ This demo is for learning purposes. **Never store plain-text passwords or sensit
 
 ---
 
-## 🎨 Tailwind Styling Snippet (Optional)
+## Tailwind Styling Snippet (Optional)
 
 
 ```css
