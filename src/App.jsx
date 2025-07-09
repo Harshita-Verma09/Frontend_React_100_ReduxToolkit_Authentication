@@ -8,6 +8,7 @@ function Dashboard() {
   return <h1 className="text-2xl font-bold text-center mt-10">Welcome to the Dashboard!</h1>;
 }
 
+
 function App() {
   const isLoggedIn = useSelector((state) => state.auth.isLoggedIn);
 
